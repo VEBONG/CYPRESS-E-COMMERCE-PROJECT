@@ -1,15 +1,21 @@
-# CYPRESS-E-COMMERCE-PROJECT
+# CYPRESS-E-COMMERCE-PROJECT BY VICTOR FRANCIS EBONG
 # E-Commerce Project
 
 # ![Uploading image.png…]()
 
-Welcome to the E-Commerce Test Project repository! This project aims to test a fully functional e-commerce website where users can browse products, add them to their cart, and complete purchases using cypress Page Object Model framework.
-Out of about 58 test cases to be executed on the AUT, the first commit has 23 test cases executed while other test scenario and test cases shall be executed or can be as a contribution to the repository. 
+Welcome to the E-Commerce Test Project repository! This project aims to test a fully functional e-commerce website where users can browse products, add items to the cart, and complete purchases using cypress Page Object Model (POM) framework.
 
-I used xpath and css selector to locate page elements and the project is easy to understand.
+The Project intend to be a reference tool for everyone transitioning into test automation with Cypess and JavaScript. In the project, Page Object Model (POM) design method is adopted and BDD Assertion are used in the script for all verification purposes.
+This e-commerce project is intended to be improved upon as cited in the "Contribution" section below to cover other test scenarios and test cases listed.
+Sequel to the fact that this project is a act as a guide to both experienced professionals, intermediate and those new to software automation testing, or those new to Cypress with JavaScript, care is taken to ensure that the code is explained via comments and waits measures are used to slow execution in order for users to experience the automated actions.
+
+Furthermore, WebElements or Page elements are located in the DOM using Xpath and CSS Selector and the project is easy to understand.
+Test cases are found in the e2e folder, Page elements are in the PageObjects folder while the Test Data are available in the fixtures folder.
+
+
+Again, Out of about 58 test cases to be executed on the AUT, the first commit has 23 test cases executed while other test scenario and test cases shall be executed or can be as a contribution to the repository. 
 
 ![image](https://github.com/VEBONG/CYPRESS-E-COMMERCE-PROJECT/assets/128030714/5dce019c-643f-4714-8289-5814118fcc7c)
-
 
 
 ## Features
