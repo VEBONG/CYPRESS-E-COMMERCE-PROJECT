@@ -1,7 +1,9 @@
 # CYPRESS-E-COMMERCE-PROJECT BY VICTOR FRANCIS EBONG
 # E-Commerce Project
 
-# ![Uploading image.png…]()
+# ![image](https://github.com/VEBONG/CYPRESS-E-COMMERCE-PROJECT/assets/128030714/d0dbf7f8-6196-4491-bc2d-3bff2bc91481)
+
+![Uploading image.png…]()
 
 Welcome to the E-Commerce Test Project repository! This project aims to test a fully functional e-commerce website where users can browse products, add items to the cart, and complete purchases using cypress Page Object Model (POM) framework.
 
