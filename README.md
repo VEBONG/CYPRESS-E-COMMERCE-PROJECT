@@ -9,7 +9,7 @@ Welcome to the E-Commerce Test Project repository! This project aims to test a f
 
 The Project intend to be a reference tool for everyone transitioning into test automation with Cypress and JavaScript. In the project, Page Object Model (POM) design method is adopted and BDD Assertion are used in the script for all verification purposes.
 This e-commerce project is intended to be improved upon as cited in the "Contribution" section below to cover other test scenarios and test cases listed.
-Sequel to the fact that this project is a act as a guide to both experienced professionals, intermediate and those new to software automation testing, or those new to Cypress with JavaScript, care is taken to ensure that the code is explained via comments and waits measures are used to slow execution in order for users to experience the automated actions.
+Sequel to the fact that this project seek to act as a guide to both experienced automation professionals, intermediate and those new to software automation testing, or those new to Cypress with JavaScript, care is taken to ensure that the code is explained via comments and waits measures are used to slow execution in order for users to experience the automated actions.
 
 Furthermore, WebElements or Page elements are located in the DOM using Xpath and CSS Selector and the project is easy to understand.
 Test cases are found in the e2e folder, Page elements are in the PageObjects folder while the Test Data are available in the fixtures folder.
