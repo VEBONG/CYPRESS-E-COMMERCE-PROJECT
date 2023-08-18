@@ -7,7 +7,7 @@
 
 Welcome to the E-Commerce Test Project repository! This project aims to test a fully functional e-commerce website where users can browse products, add items to the cart, and complete purchases using cypress Page Object Model (POM) framework.
 
-The Project intend to be a reference tool for everyone transitioning into test automation with Cypess and JavaScript. In the project, Page Object Model (POM) design method is adopted and BDD Assertion are used in the script for all verification purposes.
+The Project intend to be a reference tool for everyone transitioning into test automation with Cypress and JavaScript. In the project, Page Object Model (POM) design method is adopted and BDD Assertion are used in the script for all verification purposes.
 This e-commerce project is intended to be improved upon as cited in the "Contribution" section below to cover other test scenarios and test cases listed.
 Sequel to the fact that this project is a act as a guide to both experienced professionals, intermediate and those new to software automation testing, or those new to Cypress with JavaScript, care is taken to ensure that the code is explained via comments and waits measures are used to slow execution in order for users to experience the automated actions.
 
