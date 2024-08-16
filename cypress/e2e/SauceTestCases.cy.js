@@ -163,7 +163,7 @@ describe('Sauce Page POM implementation', () => {
     })
         // T.S 3: Product/items page
 
-        it('TC 2.1: Verify user can view items available on the site', ()=>{
+        it.only('TC 2.1: Verify user can view items available on the site', ()=>{
             const ln = new SauceDemoLogin();
             cy.fixture('SaucePageTestData').then((data) =>{
                 ln.Enter_Username(data.Username)
